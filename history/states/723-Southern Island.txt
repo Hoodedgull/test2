@@ -10,7 +10,7 @@ state={
 
 
 	history={
-		owner = NZL
+		owner = GER
 		buildings = {
 			infrastructure = 5
 			air_base = 1
